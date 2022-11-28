@@ -1,0 +1,21 @@
+
+.banner {
+    background-color: #000000;
+    height: 60vh;
+
+    color: white;
+    > img {
+        height: 100vh;
+        width: 100%;
+    }
+}
+
+.trending {
+    margin: 0.8rem;
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+}
+.row {
+    background-color: #000000;
+}

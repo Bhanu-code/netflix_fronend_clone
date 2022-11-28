@@ -1,0 +1,13 @@
+
+.cardImg > img {
+    width: 200px;
+    height: 200px;
+    margin: 0.7rem;
+    transition: transform 0.5s;
+    justify-content: space-evenly;
+    overflow-x: auto;
+
+    &:hover {
+        transform: translateY(-10px) scale(1.1);
+    }
+}
